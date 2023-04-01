@@ -1,4 +1,4 @@
-   <footer class="pt-4 my-md-5 pt-md-5 border-top">
+   <!-- <footer class="pt-4 my-md-5 pt-md-5 border-top">
        <div class="row">
            <div class="col-12 col-md">
             <h5>ONLINE SHOP</h5>
@@ -35,6 +35,5 @@
                </ul>
            </div>
        </div>
-   </footer>
-   <hr>
-   <p class=""></p><small class="d-block mb-3 text-muted text-center">&copy; Online Shop 2023</small>
+   </footer> -->
+   <p class=""></p><small class="fixed-bottom d-block mb-3 text-muted text-center ">&copy; Online Shop 2023</small>
