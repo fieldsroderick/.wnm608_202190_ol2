@@ -1,0 +1,20 @@
+{
+    "name": "MyOnlineShop",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+       "start": "php index.php"
+   },
+   "repository": {
+       "type": "git",
+       "url": "git+https://github.com/roderickfields/MyOnlineShop.git"
+    },
+   "author": "",
+  "license": "ISC",
+   "bugs": {
+       "url": "https://github.com/roderickfields/MyOnlineShop/issues"
+   },
+   "homepage": "https://github.com/roderickfields/MyOnlineShop#readme"
+}
